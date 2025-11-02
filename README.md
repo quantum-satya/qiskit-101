@@ -26,3 +26,14 @@ These notebooks are part of my self-study in Quantum Computing following:
 - Brilliant.org Quantum Courses
 
 The goal is to **learn and teach Quantum Computing in the Feynman style**, making complex topics simple and accessible.
+
+---
+
+## Connect with Me
+
+🌐 **LinkedIn:** [in/quantumsatya](https://www.linkedin.com/in/quantumsatya)  
+🎥 **YouTube:** [@QuantumSatya](https://www.youtube.com/@QuantumSatya)  
+💻 **GitHub:** [quantum-satya](https://github.com/quantum-satya)
+
+I share my quantum computing journey, projects, and tutorials — all explained in simple Hinglish, inspired by Richard Feynman’s teaching style.
+
