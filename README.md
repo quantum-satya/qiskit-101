@@ -1,16 +1,28 @@
-# Qiskit-101
+# Qiskit 101 - Quantum Computing Notebooks
 
-Step-by-step notebooks to learn and experiment with **Qiskit**, IBM’s quantum SDK.
+## About
+This repository contains beginner-friendly Qiskit notebooks.  
+It follows my self-learning journey in Quantum Computing from my village in Budaun, UP, India.
 
-## Contents
-| Notebook | Description |
-|-----------|--------------|
-| [01-hello-qiskit.ipynb](notebooks/01-hello-qiskit.ipynb) | Create a 1-qubit circuit, run on simulator, and view results |
-
-## How to run locally
-```bash
+## Running a Notebook
+1. Clone the repository:
 git clone https://github.com/quantum-satya/qiskit-101.git
+
+2. Navigate to the folder:
 cd qiskit-101
-python -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
+
+3. Activate the virtual environment:
+source ../qiskit-env/bin/activate
+
+4. Launch Jupyter Notebook:
 jupyter notebook
+
+5. Open the notebook you want to run from the `notebooks/` folder.
+
+## Author's Note
+These notebooks are part of my self-study in Quantum Computing following:
+- IBM Qiskit tutorials
+- MIT OCW Linear Algebra (18.06)
+- Brilliant.org Quantum Courses
+
+The goal is to **learn and teach Quantum Computing in the Feynman style**, making complex topics simple and accessible.
